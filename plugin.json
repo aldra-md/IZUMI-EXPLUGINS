@@ -54,6 +54,11 @@
       "pattern": "mdfor",
       "url": "https://gist.github.com/Akshay-Eypz/cca9d6416bec2fa2e66d165016133fd0",
       "usage": "custom forward"
+    },
+    {
+      "pattern": "autoaudio",
+      "url": "https://gist.github.com/lenzo-md/846bce1ceccf161d1e3cef4180db1bca",
+      "usage": "Automatic Audio"
     }
-  ] 
+] 
 }
