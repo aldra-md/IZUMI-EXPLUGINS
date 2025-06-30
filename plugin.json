@@ -59,6 +59,11 @@
       "pattern": "autoaudio",
       "url": "https://gist.github.com/lenzo-md/846bce1ceccf161d1e3cef4180db1bca",
       "usage": "Automatic Audio"
+    },
+    {
+      "pattern": "no need of command",
+      "url": "https://gist.github.com/Akshay-Eypz/3fcc79c2d8898f5c37c8653d66474052",
+      "usage": "download instareels, post automatically"
     }
 ] 
 }
